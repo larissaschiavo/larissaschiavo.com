@@ -1,0 +1,5 @@
+# Everyone is welcome here, humans and AI agents alike.
+User-agent: *
+Allow: /
+
+Sitemap: https://larissaschiavo.com/sitemap.xml

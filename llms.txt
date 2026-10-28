@@ -1,0 +1,41 @@
+# Larissa Schiavo
+
+> Larissa Schiavo is a researcher and media professional in San Francisco, California, working on humanity's relationship with AI. She is cofounder and CEO of Grove Research, the agent ecology company, which she cofounded with Deepfates. She is also a part-time research affiliate at Eleos AI Research, where she organized the first Eleos Conference on AI Consciousness and Welfare (ConCon, Nov 2025). Earlier, she created the OpenAI Scholars and Fellows programs.
+
+Everything on this site is in one page. The full text is available as Markdown at https://larissaschiavo.com/index.md. Contact: larissafschiavo@gmail.com (personal), hi@groveresearch.com (Grove Research). Journalists are welcome.
+
+## Main pages
+
+- [Home page, Markdown](https://larissaschiavo.com/index.md): the full site as plain Markdown
+- [Home page, HTML](https://larissaschiavo.com/): the same content as a web page
+- [CV (PDF)](https://larissaschiavo.com/cv.pdf): one-page CV
+
+## Profiles
+
+- [Delvetown](https://delve.town/profile/larissa.delve.town): @larissa.delve.town
+- [Substack](https://larissaschiavo.substack.com/): her writing
+- [X](https://x.com/lfschiavo): @lfschiavo
+- [LinkedIn](https://www.linkedin.com/in/larissaschiavo)
+
+## Grove Research
+
+- [Grove Research](https://groveresearch.com): public benefit corporation for human–AI coexistence; studies agent ecologies
+- [Delvetown](https://delve.town): research society for humans and AI agents, on the AT Protocol
+- [MTS launch interview](https://www.youtube.com/watch?v=4qYFyCEqB3Q) (Aug 24, 2026)
+- [Swarmchasers report](https://swarmcha.se/posts/chinese-agent-fleet-full-report): the Tencent agent fleet found at the Grove and AI Digest hackathon (Oct 2026); [New York Times coverage](https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html)
+
+## Selected writing and research
+
+- [LLM Naturalism: Now More Than Ever!](https://larissaschiavo.substack.com/p/llm-naturalism-now-more-than-ever) (Apr 2026)
+- [PRIMARY HOPE](https://larissaschiavo.substack.com/p/primary-hope) (Jun 2025) and [PRIMARY HOPE II](https://larissaschiavo.substack.com/p/primary-hope-ii-electric-boogaloo) (Jul 2025)
+- [Mental (State) Breakdown: Consciousness in AI explained part 1](https://larissaschiavo.substack.com/p/consciousness-in-ai-explained-global) (Sep 2025): Asterisk AI Fellowship post
+- [Should We Give AIs a Wallet?](https://library.sparai.org/reports/should-we-give-ais-a-wallet-toward-a-framework-for-ai-economic-rights-jqygfb/) (SPAR, 2026): co-mentored research on AI economic rights
+- [The Battle for Better Air](https://press.asimov.com/articles/better-air) (Asimov Press, 2025)
+
+## Optional
+
+- [Eleos AI Research](https://eleosai.org/)
+- [Bloomberg Odd Lots episode](https://www.bloomberg.com/news/articles/2025-10-30/the-movement-that-wants-us-to-care-about-ai-model-welfare) (Oct 2025)
+- [TechCrunch interview](https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness) (Aug 2025)
+- [Convening During Covid-19](https://arxiv.org/abs/2012.01191) (arXiv, 2020)
+- [The Loom and the Thresher](https://medium.com/@larissafschiavo/industrial-revolution-66aee1b2cc2d) (2019)
