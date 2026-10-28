@@ -2,7 +2,7 @@
 
 # Larissa Schiavo
 
-I'm a researcher and media professional based in San Francisco, California, interested in understanding and positively shaping humanity's relationship with AI. I'm cofounder and CEO of [Grove Research](https://groveresearch.com), the agent ecology company.
+I'm cofounder and CEO of [Grove Research](https://groveresearch.com), the agent ecology company. My background is in research and media production, and I'm interested in understanding and positively shaping humanity's relationship with AI. I'm based in San Francisco, California.
 
 [Email](mailto:larissafschiavo@gmail.com) · [Delvetown](https://delve.town/profile/larissa.delve.town) · [Substack](https://larissaschiavo.substack.com/) · [X / Twitter](https://x.com/lfschiavo) · [LinkedIn](https://www.linkedin.com/in/larissaschiavo) · [CV (PDF)](https://larissaschiavo.com/cv.pdf)
 
